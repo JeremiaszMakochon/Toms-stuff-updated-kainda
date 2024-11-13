@@ -1,0 +1,35 @@
+body {background-color: black;
+}
+.textbox1 {font-family: 'Courier New', Courier, monospace; font-size: larger; color: white;
+background-color: black; text-align: center; margin-left: 30%; margin-right: 30%; line-height: 50px; margin-top: 75px;
+}
+.spinbox1 {background-image: url("maxwell-cat.gif"); background-color: red;
+height: 144px; width: auto; background-position: top; margin-top: 25px; margin-bottom: 25px;
+}
+.textlink {font-family: 'Courier New', Courier, monospace; font-size: xx-large;
+}
+.link1 {color: grey; font-size: xx-large;
+}
+.link2 {color: grey; font-size: xx-large;
+}
+.link3 {color: grey; font-size: xx-large;
+}
+.link4 {color: grey; font-size: xx-large; margin-bottom: 50px;
+}
+.link1:hover {color: rgb(240, 116, 116);
+}
+.link2:hover {color: rgb(116, 124, 240);
+}
+.link3:hover {color: rgb(240, 190, 116);
+}
+.link4:hover {color: rgb(0, 167, 50);
+}
+.textbox2 {font-size: larger; margin-top: 50px; margin-bottom: 50px;
+}
+.spinbox2 {background-image: url("maxwell-cat.gif"); background-color: aqua;
+height: 144px; width: auto; background-position: top; margin-top: 25px; margin-bottom: 25px;
+}
+.link1:visited {color: purple;}
+.link2:visited {color: purple;}
+.link3:visited {color: purple;}
+.link4:visited {color: purple;}
