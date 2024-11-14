@@ -1,7 +1,7 @@
 body {background-color: black;
 }
 .textbox1 {font-family: 'Courier New', Courier, monospace; font-size: larger; color: white;
-background-color: black; text-align: center; margin-left: 30%; margin-right: 30%; line-height: 50px; margin-top: 75px;
+background-color: black; text-align: center; margin-left: 5%; margin-right: 5%; line-height: 50px; margin-top: 75px;
 }
 .spinbox1 {background-image: url("maxwell-cat.gif"); background-color: red;
 height: 144px; width: auto; background-position: top; margin-top: 25px; margin-bottom: 25px;
